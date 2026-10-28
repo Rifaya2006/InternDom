@@ -33,7 +33,7 @@ Academic Year 2026–2027
 - Company profile
 
 ## Screens
-![Screens](screens/overview.jpg)
+![Screens](overview.jpg)
 
 ## Status
 UI/UX design (21 mobile screens).
